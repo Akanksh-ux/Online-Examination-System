@@ -12,6 +12,3 @@
 # Cascading Style Sheets (CSS) file used to define the visual appearance and layout of the web pages in the Online Examination System. 
 # index.html file located in online-examination-system/src/main/webapp/ is the main entry point of the web application. It is typically the default webpage that users see when #they visit the website. 
 # The index.jsp file in online-examination-system/src/main/webapp/ is a JavaServer Pages (JSP)file
-# This file is intended to provide the front-end logic for your web application, enhancing interactivity, dynamic behavior, and overall user experience.
-# HTML and CSS are in web app folder
-
